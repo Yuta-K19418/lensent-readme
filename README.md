@@ -32,4 +32,6 @@ OneNoteに記入していくのが面倒になったのが、きっかけです�
 * Auth0
 
 ## インフラ
+* AWS
 * Docker/docker-compose
+![構成図](./img/lensent.png)
